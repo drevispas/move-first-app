@@ -1,5 +1,5 @@
 address 0xcafe {
-module first_app {
+module hello {
   public fun hello(): vector<u8> {
     b"Hello, World!"
   }
